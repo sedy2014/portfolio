@@ -40,7 +40,35 @@ Book Author
 Computer vision/Image Processing/ML
    = Image classification
 
-#Resume download
+## Notable Projects
+
+*Notable companies that I helped to build innovative technology foundations from concept.*
+
+### Medtronic  
+![Medtronic](./medtronic.png)  
+**Description:** Automated feature normalization, slashing manual optimization from 3 days to hours via custom pipeline implementation.  
+[Visit Website](https://www.medtronic.com/en-us/index.html)
+
+---
+
+### Indian Space Research Organization (ISRO)  
+![ISRO](./isro.png)  
+**Description:** Engineered MTF algorithm, blind deconvolution & wavelet denoising for high PSNR gain in Cartosat-2 satellite imagery.  
+[Visit Website](https://www.isro.gov.in/)
+
+---
+
+### Synaptics Audio (Now Google)  
+![Synaptics](./synaptics.png)  
+**Description:** Developed earbud in/out detection algorithm with hybrid ANC/ENC and AI/neural processing, boosting efficiency, cutting size/cost for enhanced audio.  
+[Visit Website](https://www.synaptics.com/)
+
+---
+
+### Zounds Hearing  
+![Zounds Hearing](./zounds.png)  
+**Description:** Spearheaded first patient-centric tinnitus diagnostic tool with GUI integration for hearing aid platforms.  
+[Visit Website](https://www.zoundshearing.com/)
 ## Education
 
 - **University of Texas at Dallas**  
@@ -50,9 +78,9 @@ Computer vision/Image Processing/ML
   **Description:**  
   - Research on Signal Processing, Machine Learning, and Computer Vision
  
-#Work Expereince TimeLine
+## Work Expereince TimeLine
      ![Expereince TimeLine](./timeline_experience.png)  
-#Blog 
+## Blog 
 
 ### Social Media Links
 
