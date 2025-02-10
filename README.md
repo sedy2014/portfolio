@@ -1,5 +1,6 @@
 # Portfolio
 Portfolio for my profile
+| ![Me at marines Show](./headshot_tank.png) |
 # About Me
 Hi all, I go by Sid.
 - 🚀 Innovation @ AI, Computer Vision, Data Science, and Signal Processing  
