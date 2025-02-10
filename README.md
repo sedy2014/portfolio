@@ -8,8 +8,43 @@ Hi all, I go by Sid.
 
 # Resume Link
 [Download My Resume](https://drive.google.com/file/d/1WME7KWji7VekexhDrhlTokt-UJ9XAbfn/view?usp=drive_link)
-# Awards
-Book Author
+
+## Achievements And Certifications 🏆
+
+*Achievements, Awards, and Cool Stuff that I have done!*
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+
+  <div style="text-align: center; margin: 10px;">
+    <img src="./fpga_book.png" alt="Author" width="150">
+    <h3>Author</h3>
+    <p>First Graduate-level book to implement DSP on FPGA using no textual code.</p>
+    <a href="https://www.amazon.com/Digital-Signal-Processing-Laboratory-Implementation/dp/1599425505">Link to Book</a>
+  </div>
+
+  <div style="text-align: center; margin: 10px;">
+    <img src="./jrtip.png" alt="Reviewer" width="150">
+    <h3>Reviewer</h3>
+    <p>Reviewer for Real-Time Image Processing papers.</p>
+    <a href="https://link.springer.com/journal/11554">Journal Link</a>
+  </div>
+
+  <div style="text-align: center; margin: 10px;">
+    <img src="./niw.png" alt="National Interest Waiver I-140" width="150">
+    <h3>National Interest Waiver I-140</h3>
+    <p>My work over the years acknowledged as of substantial intrinsic merit for national interest of the US.</p>
+    <a href="https://www.uscis.gov/newsroom/alerts/uscis-updates-guidance-on-eb-2-national-interest-waiver-petitions">NIW: What is it</a>
+  </div>
+
+  <div style="text-align: center; margin: 10px;">
+    <img src="./ieee.png" alt="IEEE Senior Member" width="150">
+    <h3>IEEE Senior Member</h3>
+    <p>Elevation to the grade of IEEE Senior Member.</p>
+    <a href="https://www.ieee.org/membership/senior/">IEEE</a>
+  </div>
+
+</div>
+
 
 ## Skills
 *Jack of all trades, Master of some*
