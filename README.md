@@ -19,6 +19,23 @@ Book Author
 - 🚀 <span style="color:orange;">**Lead cross-functional teams to deliver impactful projects on time and within scope.**</span>
 - 🚀 <span style="color:red;">**Mentor/Coach to navigate the difficult job market and more.**</span>
 
+## Software Skills
+
+- **Programming Languages**
+  - C/C++
+  - Python
+  - Matlab
+  - SQL
+
+- **Machine Learning Frameworks**
+  - Keras
+  - TensorFlow
+  - PyTorch
+
+- **Cloud Platforms**
+  - GCP (Google Cloud Platform)
+  - AWS (Amazon Web Services)
+  - 
 #Work Projects
 Computer vision/Image Processing/ML
    = Image classification
