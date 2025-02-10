@@ -2,7 +2,7 @@
 
 | ![Me at marines Show](./headshot1.png) |
 # About Me
-Hi all, # **I go by Sid**.
+# Hi all,  **I go by Sid**.
 - 🚀 Innovation @ AI, Computer Vision, Data Science, and Signal Processing  
 - 🚀 Solving complex healthcare and tech challenges  
 - 🚀 Proven leader delivering impactful solutions and mentoring teams to success
