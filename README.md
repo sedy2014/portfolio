@@ -49,6 +49,9 @@ Computer vision/Image Processing/ML
   **Duration:** September 2008 - May 2011  
   **Description:**  
   - Research on Signal Processing, Machine Learning, and Computer Vision
+ 
+#Work Expereince TimeLine
+     ![Expereince TimeLine](./timeline_experience.png)  
 #Blog 
 
 ### Social Media Links
