@@ -127,34 +127,12 @@ Computer vision/Image Processing/ML
 
 *Fueled by technical curiosity, I design engaging resources to teach others what I have learned.*
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; width: 250px; text-align: center;">
-    <h3>Understanding Class Imbalance in Real-World Applications</h3>
-    <a href="https://www.linkedin.com/pulse/understanding-class-imbalance-real-world-applications-mahotra-gsbic/?trackingId=usKMxo6LRRuKTT5txW5HPA%3D%3D" target="_blank">Read Blog</a>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; width: 250px; text-align: center;">
-    <h3>Understanding Sensitivity vs Specificity: From Medical Diagnostics to Drug Discovery</h3>
-    <a href="https://www.linkedin.com/pulse/understanding-sensitivity-vs-specificity-from-medical-mahotra-zzs4c/?trackingId=usKMxo6LRRuKTT5txW5HPA%3D%3D" target="_blank">Read Blog</a>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; width: 250px; text-align: center;">
-    <h3>Yolo8 to Yolo11: A Comprehensive Review</h3>
-    <a href="https://www.linkedin.com/posts/sidharthmahotra_yolo-objectdetection-computervision-activity-7288768997121040384-17Gd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIkL5EBU6d36PL5IUa1VNn6LBTPnzGJL88" target="_blank">Read Blog</a>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; width: 250px; text-align: center;">
-    <h3>Addressing AI Explainability Challenges</h3>
-    <a href="https://www.linkedin.com/posts/sidharthmahotra_ai-explainability-challenges-activity-7286605939317653504-f0OP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIkL5EBU6d36PL5IUa1VNn6LBTPnzGJL88" target="_blank">Read Blog</a>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; width: 250px; text-align: center;">
-    <h3>LLM Pre/Post Training State of the Art -2024</h3>
-    <a href="https://www.linkedin.com/posts/sidharthmahotra_llm-pre-and-post-training-insights-activity-7280816853394845700-Nd40?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIkL5EBU6d36PL5IUa1VNn6LBTPnzGJL88" target="_blank">Read Blog</a>
-  </div>
-
-</div>
+| Blog Title                                                                                                   | Blog Title                                                                                                   | Blog Title                                                                                                   |
+|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| **[Understanding Class Imbalance in Real-World Applications](https://www.linkedin.com/pulse/understanding-class-imbalance-real-world-applications-mahotra-gsbic/?trackingId=usKMxo6LRRuKTT5txW5HPA%3D%3D)** | **[Understanding Sensitivity vs Specificity: From Medical Diagnostics to Drug Discovery](https://www.linkedin.com/pulse/understanding-sensitivity-vs-specificity-from-medical-mahotra-zzs4c/?trackingId=usKMxo6LRRuKTT5txW5HPA%3D%3D)** | **[Yolo8 to Yolo11: A Comprehensive Review](https://www.linkedin.com/posts/sidharthmahotra_yolo-objectdetection-computervision-activity-7288768997121040384-17Gd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIkL5EBU6d36PL5IUa1VNn6LBTPnzGJL88)** |
+| [Read Blog](https://www.linkedin.com/pulse/understanding-class-imbalance-real-world-applications-mahotra-gsbic/?trackingId=usKMxo6LRRuKTT5txW5HPA%3D%3D) | [Read Blog](https://www.linkedin.com/pulse/understanding-sensitivity-vs-specificity-from-medical-mahotra-zzs4c/?trackingId=usKMxo6LRRuKTT5txW5HPA%3D%3D) | [Read Blog](https://www.linkedin.com/posts/sidharthmahotra_yolo-objectdetection-computervision-activity-7288768997121040384-17Gd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIkL5EBU6d36PL5IUa1VNn6LBTPnzGJL88) |
+| **[Addressing AI Explainability Challenges](https://www.linkedin.com/posts/sidharthmahotra_ai-explainability-challenges-activity-7286605939317653504-f0OP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIkL5EBU6d36PL5IUa1VNn6LBTPnzGJL88)** | **[LLM Pre/Post Training State of the Art -2024](https://www.linkedin.com/posts/sidharthmahotra_llm-pre-and-post-training-insights-activity-7280816853394845700-Nd40?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIkL5EBU6d36PL5IUa1VNn6LBTPnzGJL88)** |                                                                                                             |
+| [Read Blog](https://www.linkedin.com/posts/sidharthmahotra_ai-explainability-challenges-activity-7286605939317653504-f0OP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIkL5EBU6d36PL5IUa1VNn6LBTPnzGJL88) | [Read Blog](https://www.linkedin.com/posts/sidharthmahotra_llm-pre-and-post-training-insights-activity-7280816853394845700-Nd40?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIkL5EBU6d36PL5IUa1VNn6LBTPnzGJL88) |                                                                                                             |
 
 
 ### Social Media Links
