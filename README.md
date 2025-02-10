@@ -46,6 +46,7 @@ Hi all, I go by Sid.
 </div>
 
 
+
 ## Skills
 *Jack of all trades, Master of some*
 - ⚡ <span style="color:blue; font-weight:bold;">**Develop cutting-edge Computer Vision and Machine Learning solutions**</span> tailored for businesses, focusing on real-world applications such as predictive analytics, automation, and customer insights.
