@@ -97,9 +97,11 @@ Computer vision/Image Processing/ML
 | [**FPGA Implementation Made Easy for Applied Digital Signal Processing Courses**](https://ieeexplore.ieee.org/document/5947089) |                                                                                        
 
 
-### Social Media Links
+### Contact Links
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sedy2014)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahotra.sidharth@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidharthmahotra/)
+| Platform  | Link                                                                                       |
+|-----------|--------------------------------------------------------------------------------------------|
+| ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  | [GitHub Profile](https://github.com/sedy2014)                                                          |
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) | [LinkedIn Profile](https://www.linkedin.com/in/sidharthmahotra/)                                       |
+| ![Topmate](https://img.shields.io/badge/Topmate-FF5722?style=for-the-badge&logo=topmate&logoColor=white) | [Topmate Profile](https://topmate.io/sidharth_mahotra/)                                                |
  
