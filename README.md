@@ -44,35 +44,32 @@ Computer vision/Image Processing/ML
 
 *Notable companies that I helped to build innovative technology foundations from concept.*
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+### Medtronic  
+![Medtronic](./assets/images/medtronic.png)  
+**Description:** Automated feature normalization, slashing manual optimization from 3 days to hours via custom pipeline implementation.  
+[Visit Website](https://www.medtronic.com/en-us/index.html)
 
-  <div style="text-align: center; margin: 10px;">
-    <img src="./assets/images/medtronic.png" alt="Medtronic" width="150">
-    <h3>Medtronic</h3>
-    <p>Automated feature normalization, slashing manual optimization from 3 days to hours via custom pipeline implementation.</p>
-    <a href="https://www.medtronic.com/en-us/index.html">Visit Website</a>
-  </div>
+---
 
-  <div style="text-align: center; margin: 10px;">
-    <img src="./assets/images/isro.png" alt="ISRO" width="150">
-    <h3>Indian Space Research Organization (ISRO)</h3>
-    <p>Engineered MTF algorithm, blind deconvolution & wavelet denoising for high PSNR gain in Cartosat-2 satellite imagery.</p>
-    <a href="https://www.isro.gov.in/">Visit Website</a>
-  </div>
+### Indian Space Research Organization (ISRO)  
+![ISRO](./assets/images/isro.png)  
+**Description:** Engineered MTF algorithm, blind deconvolution & wavelet denoising for high PSNR gain in Cartosat-2 satellite imagery.  
+[Visit Website](https://www.isro.gov.in/)
 
-  <div style="text-align: center; margin: 10px;">
-    <img src="./assets/images/synaptics.png" alt="Synaptics" width="150">
-    <h3>Synaptics Audio (Now Google)</h3>
-    <p>Developed earbud in/out detection algorithm with hybrid ANC/ENC and AI/neural processing, boosting efficiency, cutting size/cost for enhanced audio.</p>
-    <a href="https://www.synaptics.com/">Visit Website</a>
-  </div>
+---
 
-  <div style="text-align: center; margin: 10px;">
-    <img src="./assets/images/zounds.png" alt="Zounds Hearing" width="150">
-    <h3>Zounds Hearing</h3>
-    <p>Spearheaded first patient-centric tinnitus diagnostic tool with GUI integration for hearing aid platforms.</p>
-    <a href="https://www.zoundshearing.com/">Visit Website</a>
-  </div>
+### Synaptics Audio (Now Google)  
+![Synaptics](./assets/images/synaptics.png)  
+**Description:** Developed earbud in/out detection algorithm with hybrid ANC/ENC and AI/neural processing, boosting efficiency, cutting size/cost for enhanced audio.  
+[Visit Website](https://www.synaptics.com/)
+
+---
+
+### Zounds Hearing  
+![Zounds Hearing](./assets/images/zounds.png)  
+**Description:** Spearheaded first patient-centric tinnitus diagnostic tool with GUI integration for hearing aid platforms.  
+[Visit Website](https://www.zoundshearing.com/)
+
 
 </div>
 
