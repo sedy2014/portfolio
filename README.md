@@ -10,8 +10,14 @@ Hi all, I go by Sid.
 [Download My Resume](https://drive.google.com/file/d/1WME7KWji7VekexhDrhlTokt-UJ9XAbfn/view?usp=drive_link)
 # Awards
 Book Author
-# Skills
-Data Sceince
+## Skills
+*Jack of all trades, Master of some*
+
+- ⚡ Develop cutting-edge Computer Vision and Machine Learning solutions tailored for businesses, focusing on real-world applications such as predictive analytics, automation, and customer insights.
+- ✍️ Write compelling articles and technical blogs on AI, technology trends, and innovation to educate and inspire audiences.
+- 🎨 Design intuitive visualizations/dashboards that merge functionality with aesthetics, ensuring seamless user experiences.
+- 🚀 Lead cross-functional teams to deliver impactful projects on time and within scope.
+- 🚀 Mentor/Coach to navigate the difficult job market and more.
 
 #Work Projects
 Computer vision/Image Processing/ML
