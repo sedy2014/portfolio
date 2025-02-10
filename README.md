@@ -55,7 +55,7 @@ Computer vision/Image Processing/ML
 
 | ![Experience Timeline](./timeline_experience.png) |
 |---------------------------------------------------|
-| **Work Experience Timeline**                     |
+
 
 ## Notable Projects
 
