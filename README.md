@@ -98,10 +98,9 @@ Computer vision/Image Processing/ML
 
 
 ### Contact Links
+- [🐱 GitHub](https://github.com/sedy2014)
+- [✉️ Gmail](mailto:mahotra.sidharth@gmail.com)
+- [💼 LinkedIn](https://www.linkedin.com/in/sidharthmahotra/)
+- [✨ Topmate](https://topmate.io/sidharth_mahotra/)
+  
 
-| Platform  | Link                                                                                       |
-|-----------|--------------------------------------------------------------------------------------------|
-| ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  |                                                        
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)                                   
-| ![Topmate](https://img.shields.io/badge/Topmate-FF5722?style=for-the-badge&logo=topmate&logoColor=white)                                   
- 
