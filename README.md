@@ -44,7 +44,7 @@ Computer vision/Image Processing/ML
 ## Education
 
 - **University of Texas at Dallas**  
-## ![UTD Logo](./assets/images/utd_logo.png)  
+ ![UTD Logo](./utd_logo.png)  
   *Master of Science in Electrical Engineering*  
   **Duration:** September 2008 - May 2011  
   **Description:**  
