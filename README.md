@@ -48,6 +48,14 @@ Hi all, I go by Sid.
 Computer vision/Image Processing/ML
    = Image classification
 
+## Work Experience Timeline
+
+*Visualizing my professional journey through key milestones.*
+
+| ![Experience Timeline](./timeline_experience.png) |
+|---------------------------------------------------|
+| **Work Experience Timeline**                     |
+
 ## Notable Projects
 
 *Notable companies that I helped to build innovative technology foundations from concept.*
@@ -66,8 +74,7 @@ Computer vision/Image Processing/ML
   **Description:**  
   - Research on Signal Processing, Machine Learning, and Computer Vision
  
-## Work Expereince TimeLine
-     ![Expereince TimeLine](./timeline_experience.png)  
+
      
 ## Blogs
 
