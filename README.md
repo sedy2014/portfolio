@@ -95,7 +95,7 @@ Computer vision/Image Processing/ML
 |--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | **New Filters for Improved Longevity and Day 1 Performance in Next Generation CGM Sensors** | [**Real-Time Hand-Pair Gesture Recognition Using a Stereo Webcam**](https://ieeexplore.ieee.org/document/6152464) | [**Detecting Glaucoma Progression Using Deep Archetypal Analysis of Retinal Nerve Fiber Layer Thickness Measurements**](https://iovs.arvojournals.org/article.aspx?articleid=2773632) |
 | **Detecting age-related macular degeneration severity from fundus photographs using deep learning- ARVO 2020** | [**Patterns of retinal nerve fiber layer loss in patients with glaucoma identified by deep archetypal analysis**](https://ieeexplore.ieee.org/document/9378395) | [**Real-Time Computation of Disparity for Hand-Pair Gesture Recognition Using Video Stereo Images**](https://link.springer.com/article/10.1007/s11554-011-0207-8) |
-| [**FPGA Implementation Made Easy for Applied Digital Signal Processing Courses**](https://ieeexplore.ieee.org/document/5947089) |                                                                                            |                                                                                            |
+| [**FPGA Implementation Made Easy for Applied Digital Signal Processing Courses**](https://ieeexplore.ieee.org/document/5947089) |                                                                                        
 
 
 ### Social Media Links
